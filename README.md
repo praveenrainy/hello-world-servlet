@@ -20,3 +20,4 @@ sample
 16-06-2022--> today is THURSDAY
 21-06-2022
 11/11/2022 time added november
+today added time
